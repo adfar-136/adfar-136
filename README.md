@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Adfar-Rasheed! 👋</h1>
 
-<!--
-**adfar-136/adfar-136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<p align="center">
+  <a href="https://github.com/adfar-136"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Passionate+CS+Student;AI+and+ML+Enthusiast;Exploring+Data+Science" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
+![GitHub Streak](https://streak-stats.demolab.com?user=adfar-136&theme=dark)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Shahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adfar-136&theme=github-compact)](https://github.com/adfar-136/github-readme-activity-graph)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adfar-136&show_icons=true&theme=radical" width="60%" alt="GitHub Stats" /> 
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adfar-136&layout=compact&theme=radical" width="60%" alt="Top Languages" />
+</p>
+
+---
