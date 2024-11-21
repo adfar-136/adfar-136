@@ -44,7 +44,10 @@
 - 🌱 I’m learning **GraphQL** and **Next.js** to dive deeper into modern web technologies.
 - 👯 I’m open to collaborating on **open-source projects** and building **innovative products**.
 - 🤔 I’m passionate about writing **clean code** and maintaining a **great user experience**.
-- 📫 Reach out to me:
+
+---
+
+## 🔗 Connect with Me
 - **📧 Email**: [![Email](https://img.shields.io/badge/Email-0077B5?logo=gmail&logoColor=white)](mailto:adfarrasheed136@gmail.com)
 - **💼 LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/adfar-rasheed](http://linkedin.com/in/adfar-rasheed)) |
 
