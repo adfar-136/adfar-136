@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Adfar-Rasheed! 👋</h1>
 
-[<p align="center">
+<p align="center">
   <a href="https://github.com/adfar-136"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Passionate+Web-Developer;AI+and+ML+Enthusiast;Exploring+Data+Science" alt="Typing SVG" /></a>
 </p>
 
