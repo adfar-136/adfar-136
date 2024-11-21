@@ -49,6 +49,6 @@
 
 ## 🔗 Connect with Me
 - **📧 Email**: [![Email](https://img.shields.io/badge/Email-0077B5?logo=gmail&logoColor=white)](mailto:adfarrasheed136@gmail.com)
-- **💼 LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/adfar-rasheed](http://linkedin.com/in/adfar-rasheed)) |
+- **💼 LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/adfar-rasheed](http://linkedin.com/in/adfar-rasheed))
 
 ---
