@@ -8,7 +8,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=adfar-136&theme=dark)
 ---
 
-[![Shahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adfar-136&theme=github-compact)](https://github.com/adfar-136/github-readme-activity-graph)
+[![Adfar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adfar-136&theme=github-compact)]
 
 ---
 
@@ -44,7 +44,6 @@
 - 🌱 I’m learning **GraphQL** and **Next.js** to dive deeper into modern web technologies.
 - 👯 I’m open to collaborating on **open-source projects** and building **innovative products**.
 - 🤔 I’m passionate about writing **clean code** and maintaining a **great user experience**.
-- 📫 Reach out to me: [adfarrasheed136@gmail.com](mailto:adfarrasheed136@gmail.com) | [LinkedIn](http://linkedin.com/in/adfar-rasheed) |
+- 📫 Reach out to me: [MailTo](mailto:adfarrasheed136@gmail.com) | [LinkedIn](http://linkedin.com/in/adfar-rasheed) |
 
 ---
-
